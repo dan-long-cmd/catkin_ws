@@ -1,0 +1,8 @@
+prefix=/catkin_ws/devel/.private/rm_description_for_task
+
+Name: rm_description_for_task
+Description: Description of rm_description_for_task
+Version: 0.1.9
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

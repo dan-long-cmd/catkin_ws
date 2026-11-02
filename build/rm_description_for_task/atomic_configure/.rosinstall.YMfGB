@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /catkin_ws/devel/.private/rm_description_for_task/setup.sh

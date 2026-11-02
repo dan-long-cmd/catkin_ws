@@ -1,0 +1,4 @@
+Symlinking /catkin_ws/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig.cmake
+Symlinking /catkin_ws/devel/share/simple_chassis_controller/cmake/simple_chassis_controllerConfig-version.cmake
+Symlinking /catkin_ws/devel/lib/libsimple_chassis_controller.so
+Symlinking /catkin_ws/devel/lib/pkgconfig/simple_chassis_controller.pc
